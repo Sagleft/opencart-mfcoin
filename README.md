@@ -40,3 +40,9 @@
 ## ![o](http://info.mfcoin.su/img/icns/caesar.png) Donate
 MFCoin:
 Mi8mwDHhzASQZKiYFyRjg32NoafRzcMEok
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
